@@ -1,0 +1,14 @@
+.NavBarElement {
+  background-color: #f1f5f9;
+}
+.img {
+  width: 120px;
+  height: 40px;
+}
+.SubContainer {
+  text-align: center;
+}
+.listContainer {
+  display: 'flex';
+  flex-wrap: wrap;
+}
